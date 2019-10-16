@@ -14,3 +14,5 @@ This is one of [Pet projects](https://github.com/maciejjankowski/learn-to-code/w
 # resources
 * [SMS API python](https://github.com/smsapi/smsapi-python-client)
 * https://portalpasazera.pl/
+* beautiful soup
+* scrappy?
